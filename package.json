@@ -17,7 +17,6 @@
     "start": "node index.js",
     "watch": "ts-node-dev --respawn src/Union.ts",
     "serve": "ts-node-dev src/function.ts",
-    "build": "tsc",
-    "build-ts": "tsc"
+    "build": "tsc"
   }
 }
